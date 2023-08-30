@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.67d508f2.css",
-    "main.js": "/static/js/main.05d4bb16.js",
+    "main.js": "/static/js/main.b1f7b966.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/shopExpress.png": "/static/media/shopExpress.d390a2f686e1b8d54949.png",
     "static/media/buyfashion.png": "/static/media/buyfashion.903268af8fd04f98808a.png",
     "static/media/Vishal-Giri-Resume.pdf": "/static/media/Vishal-Giri-Resume.7d370a589d5851a08557.pdf",
     "index.html": "/index.html",
     "main.67d508f2.css.map": "/static/css/main.67d508f2.css.map",
-    "main.05d4bb16.js.map": "/static/js/main.05d4bb16.js.map",
+    "main.b1f7b966.js.map": "/static/js/main.b1f7b966.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67d508f2.css",
-    "static/js/main.05d4bb16.js"
+    "static/js/main.b1f7b966.js"
   ]
 }
