@@ -1,0 +1,64 @@
+
+{
+  "personal": {
+    "name": "Vishal Giri",
+    "title": "Full-stack MERN Developer",
+    "description": "A Full-stack MERN Developer specializing in building exceptional digital experiences."
+  },
+  "about": {
+    "description": [
+      "I specialize in full-stack web development using the MERN stack (MongoDB, Express.js, React.js, Node.js). With a passion for creating efficient and scalable applications, I bring ideas to life through clean code and intuitive user interfaces.",
+      "My expertise includes building RESTful APIs, managing databases, implementing authentication systems, and creating responsive front-end designs."
+    ]
+  },
+  "skills": [
+    { "name": "MongoDB", "image": "/mongodb.svg" },
+    { "name": "Express.js", "image": "/express.svg" },
+    { "name": "React", "image": "/react.svg" },
+    { "name": "Node.js", "image": "/nodejs.svg" },
+    { "name": "JavaScript", "image": "/javascript.svg" },
+    { "name": "HTML", "image": "/html.svg" },
+    { "name": "CSS", "image": "/css.svg" },
+    { "name": "Git", "image": "/git.svg" }
+  ],
+  "projects": [
+    {
+      "title": "E-commerce Platform",
+      "image": "/project1.jpg",
+      "description": "A full-stack e-commerce platform with user authentication, product management, and payment integration.",
+      "techStack": "MongoDB, Express.js, React, Node.js, Redux",
+      "github": "https://github.com/username/ecommerce",
+      "live": "https://ecommerce-demo.com"
+    },
+    {
+      "title": "Task Management App",
+      "image": "/project2.jpg",
+      "description": "Real-time task management application with collaborative features and drag-and-drop functionality.",
+      "techStack": "MERN Stack, Socket.io, Material-UI",
+      "github": "https://github.com/username/task-manager",
+      "live": "https://task-manager-demo.com"
+    },
+    {
+      "title": "Blog Platform",
+      "image": "/project3.jpg",
+      "description": "Feature-rich blogging platform with markdown support and user interactions.",
+      "techStack": "React, Node.js, MongoDB, Express",
+      "github": "https://github.com/username/blog-platform",
+      "live": "https://blog-platform-demo.com"
+    },
+    {
+      "title": "Social Media Dashboard",
+      "image": "/project4.jpg",
+      "description": "Analytics dashboard for social media metrics with real-time data visualization.",
+      "techStack": "MERN Stack, Chart.js, WebSocket",
+      "github": "https://github.com/username/social-dashboard",
+      "live": "https://social-dashboard-demo.com"
+    }
+  ],
+  "contact": {
+    "github": "https://github.com/yourusername",
+    "linkedin": "https://linkedin.com/in/yourusername",
+    "email": "your.email@example.com",
+    "phone": "+1 234 567 890"
+  }
+}
