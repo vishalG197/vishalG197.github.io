@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd74d919.css",
-    "main.js": "/static/js/main.45cc7db1.js",
-    "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
+    "main.css": "/static/css/main.1759360b.css",
+    "main.js": "/static/js/main.bab93c00.js",
+    "static/js/453.5510b177.chunk.js": "/static/js/453.5510b177.chunk.js",
     "static/media/shopExpress.png": "/static/media/shopExpress.d390a2f686e1b8d54949.png",
-    "static/media/bg.jpg": "/static/media/bg.d745ca21dca6bab72804.jpg",
+    "static/media/Vishal-Giri-Resume.pdf": "/static/media/Vishal-Giri-Resume.7d370a589d5851a08557.pdf",
     "index.html": "/index.html",
-    "main.bd74d919.css.map": "/static/css/main.bd74d919.css.map",
-    "main.45cc7db1.js.map": "/static/js/main.45cc7db1.js.map",
-    "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
+    "main.1759360b.css.map": "/static/css/main.1759360b.css.map",
+    "main.bab93c00.js.map": "/static/js/main.bab93c00.js.map",
+    "453.5510b177.chunk.js.map": "/static/js/453.5510b177.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd74d919.css",
-    "static/js/main.45cc7db1.js"
+    "static/css/main.1759360b.css",
+    "static/js/main.bab93c00.js"
   ]
 }
